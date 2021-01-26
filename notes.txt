@@ -1,6 +1,6 @@
 PHP Commands
 
-<?php ?>
+<?php ?> / <?=
 print / echo
 $ --> Arrays: GET, POST, SESSION
 for
