@@ -1,0 +1,11 @@
+!(not in test)! --->
+
+You are given two arrays:
+
+$items = ["Fruits", "Vegetables", "Meat", "Carrots", "Peas", "Tomatoes"];
+$indices = [1,0,3,4,5,6,2,0];
+
+TASK 1: Check if the INDICES in the second array ARE VALID indices to use in the FIRST array. If you have any item OUT of range, you should display and error.
+
+TASK 2: Assuming the correct indices array, display an unordered list with items from the $items array using the given $indices array.
+
