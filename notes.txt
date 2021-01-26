@@ -1,1 +1,13 @@
+PHP Commands
 
+<?php ?>
+print / echo
+$ --> Arrays: GET, POST, SESSION
+for
+foreach
+while
+if / else
+include_once
+isset
+file: fgets, fclose, fopen
+--> explode, trim, function
