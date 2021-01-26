@@ -11,3 +11,6 @@ include_once
 isset
 file: fgets, fclose, fopen
 --> explode, trim, function
+
+array_push
+sizeof()
