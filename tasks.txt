@@ -9,3 +9,7 @@ TASK 1: Check if the INDICES in the second array ARE VALID indices to use in the
 
 TASK 2: Assuming the correct indices array, display an unordered list with items from the $items array using the given $indices array.
 
+isset
+
+for loop
+equations
