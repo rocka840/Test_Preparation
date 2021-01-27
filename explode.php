@@ -16,9 +16,10 @@ if(isset($_GET["submit"])){
     $file = fopen("data9.txt", "r");
     while($line = fgets($file)){
         $exp = explode($line, "|");
-    }
-    print $exp;
+        print implode("|", $exp);
 }
+    }
+
 ?>
 
 </body>
